@@ -1,0 +1,8 @@
+version: '2.1'
+
+services:
+  docker-athena2019:
+    image: docker-athena2019
+    build: .
+    ports:
+      - 3000:3000

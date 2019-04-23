@@ -1,0 +1,8 @@
+prefix=/media/faizainur/Data/My Project/TRUI/AUAV/Programming/docker-athena2019/rosfiles/devel
+
+Name: krti2019
+Description: Description of krti2019
+Version: 0.0.0
+Cflags: -I/media/faizainur/Data/My Project/TRUI/AUAV/Programming/docker-athena2019/rosfiles/src/krti2019/include
+Libs: -L/media/faizainur/Data/My Project/TRUI/AUAV/Programming/docker-athena2019/rosfiles/devel/lib -lkrti2019
+Requires: roscpp std_msgs message_runtime

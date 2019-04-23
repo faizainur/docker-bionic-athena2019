@@ -1,0 +1,2 @@
+set(krti2019_MESSAGE_FILES "")
+set(krti2019_SERVICE_FILES "")
